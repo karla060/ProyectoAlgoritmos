@@ -20,7 +20,7 @@ public class ProyectoAlgoritmos {
       
       
       
-      
+      //Mostrar mensaje indicando la seccion de categorías 
        System.out.println("  ---Seccion de Categorias de Productos---  "); 
      
       
