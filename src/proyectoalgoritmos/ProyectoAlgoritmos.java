@@ -20,6 +20,7 @@ public class ProyectoAlgoritmos {
     
     
     
+    
       
       //Mostrar mensaje indicando la seccion de categorías 
       //1.1.	Definición de Categorías:
